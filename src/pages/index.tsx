@@ -8,8 +8,8 @@ function Index() {
       <main className="bg-card backdrop-blur-md border border-stroke max-w-lg rounded-xl overflow-hidden relative z-10">
         <div className="w-full h-64 relative">
           <Image
-            src="/image/me.jpeg"
-            alt="Thomas Mitchelmore"
+            src="/image/me.jpg"
+            alt="Niall Morrison"
             fill
             className="object-cover"
             style={{
@@ -20,16 +20,16 @@ function Index() {
         </div>
         <div className="p-8 space-y-6">
           <div className="space-y-2">
-            <h1>Thomas Mitchelmore</h1>
+            <h1>Niall Morrison</h1>
             <h2>
-              Project Manager at <a href="https://iceline-hosting.com/" target="_blank">Iceline Hosting</a>.
+              Backend Engineer at Aardvark.
             </h2>
           </div>
           <p>
-            With over 6 years of experience in the industry, I&apos;m a web designer and frontend developer that&apos;s passionate about creating beautiful, responsive sites that are a joy to use.
+            With a thorough and diverse background in building technical solutions, I&apos;m a developer that&apos;s passionate about solving complex data problems, engineering them to maximum performance.
           </p>
           <p className="font-medium">
-            <a href="mailto:hello@mitchelmore.dev">hello@mitchelmore.dev</a>
+            <a href="mailto:hello@niall.digital">hello@niall.digital</a>
           </p>
           <div className="flex gap-4">
             <IconContext.Provider value={{size: "24"}}>
