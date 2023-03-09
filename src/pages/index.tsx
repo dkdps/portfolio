@@ -26,7 +26,7 @@ function Index() {
             </h2>
           </div>
           <p>
-            With a thorough and diverse background in building technical solutions, I&apos;m a developer that&apos;s passionate about solving complex data problems, engineering them to maximum performance.
+            With a thorough and diverse background in building technical solutions, I&apos;m a developer that&apos;s passionate about solving complex data problems, engineering solutions to maximum performance.
           </p>
           <p className="font-medium">
             <a href="mailto:hello@niall.digital">hello@niall.digital</a>
