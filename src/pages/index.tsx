@@ -22,7 +22,7 @@ function Index() {
           <div className="space-y-2">
             <h1>Niall Morrison</h1>
             <h2>
-              Backend Engineer at Aardvark.
+              Backend Engineer at <a href="https://novatura.co/web/" target="_blank">Novatura</a>
             </h2>
           </div>
           <p>
